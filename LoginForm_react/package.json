@@ -1,7 +1,7 @@
 {
   "name": "loginform-react",
   "version": "0.1.0",
-  "homepage": "https://Djuricko88.github.io/LoginForm_react",
+  "homepage": "https://Djuricko88.github.io/Web_App/LoginForm_react",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
